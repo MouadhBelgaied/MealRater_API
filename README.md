@@ -28,7 +28,7 @@ Il fournit des outils pour :
 
 - **Sérialiser et désérialiser** les données (JSON <-> Python)  
 - Gérer **les permissions et l’authentification**
-- Créer rapidement des ***endpoints*** CRUD  
+- Créer rapidement des ***endpoints***  
 
 <p align="center">
   <img src="https://www.django-rest-framework.org/img/logo.png" width="300">
