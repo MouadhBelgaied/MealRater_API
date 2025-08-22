@@ -21,7 +21,7 @@ Une **API** (Application Programming Interface) agit comme un **serveur dans un 
 
 ---
 
-## 🛠️ Django REST Framework (DRF)  
+## Django REST Framework (DRF)  
 
 **Django REST Framework (DRF)** est une puissante extension de **DJANGO** qui permet de créer facilement des **API RESTful**.  
 Il fournit des outils pour :  
