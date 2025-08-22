@@ -56,6 +56,7 @@ Il permet de :
 - Inscription / Connexion / Déconnexion (avec Token d’authentification Auth)
 - CRUD User, Meal, Rating (avec permissions)
 - Un utilisateur peut créer ou mettre à jour sa note pour un repas
+- Un utilisateur ne peut noter qu'un seul repas
 - Calcul automatique de la **moyenne des notes** et du **nombre total de votes** pour chaque repas
 
 ---
