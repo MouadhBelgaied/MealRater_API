@@ -46,7 +46,7 @@ Il permet de :
 - **Comprendre** rapidement les paramètres et les réponses  
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*kiRZQkovNoVCTAW4rB7oVQ.png" width="400">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*kiRZQkovNoVCTAW4rB7oVQ.png" width="200">
 </p>
 
 ---
