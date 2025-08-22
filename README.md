@@ -60,12 +60,9 @@ Il permet de :
 
 ---
 
-## 📷 Architecture Django
+## Architecture Django
 
 <p align="center">
   <img src="https://miro.medium.com/1*UTCLKbdQmnyywpPqa6aNkw.png" width="600">
 </p>
 
-
-# Lancer le serveur
-python manage.py runserver
