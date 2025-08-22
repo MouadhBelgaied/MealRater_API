@@ -46,7 +46,7 @@ Il permet de :
 - **Comprendre** rapidement les paramètres et les réponses  
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*kiRZQkovNoVCTAW4rB7oVQ.png" width="600">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*kiRZQkovNoVCTAW4rB7oVQ.png" width="400">
 </p>
 
 ---
@@ -60,9 +60,9 @@ Il permet de :
 
 ---
 
-## Architecture Django
+## Architecture DRF
 
 <p align="center">
-  <img src="https://miro.medium.com/1*UTCLKbdQmnyywpPqa6aNkw.png" width="600">
+  <img src="https://miro.medium.com/1*UTCLKbdQmnyywpPqa6aNkw.png" width="700">
 </p>
 
